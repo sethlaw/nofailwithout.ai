@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('#rss-feed').FeedEk({
-      FeedUrl: 'http://rss.cnn.com/rss/cnn_topstories.rss',
+      FeedUrl: 'https://nofailwithout.ai/rss.xml',
       MaxCount: 10,
       ShowDesc: true,
       ShowPubDate: true,
